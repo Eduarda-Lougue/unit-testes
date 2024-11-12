@@ -1,0 +1,17 @@
+{
+    "name": "vendor/testes",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Testes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduarda-Lougue",
+            "email": "eduardalougue@concordiasl.com.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    }
+}
